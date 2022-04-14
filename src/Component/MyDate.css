@@ -1,0 +1,14 @@
+.bg{
+    height: 100vh;   
+}
+.font{
+    font-family: 'Chakra Petch', sans-serif;
+}
+.dark-mode{
+    background-color: #121212;
+    color: white;
+}
+.light-mode{
+    background-color: white;
+    color: #121212;
+}
